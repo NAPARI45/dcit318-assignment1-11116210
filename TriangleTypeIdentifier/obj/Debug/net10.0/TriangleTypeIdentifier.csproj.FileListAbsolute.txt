@@ -1,0 +1,14 @@
+C:\Users\Hikma_kd50hxb\Downloads\dcit318-assignment1-11116210\TriangleTypeIdentifier\bin\Debug\net10.0\TriangleTypeIdentifier.exe
+C:\Users\Hikma_kd50hxb\Downloads\dcit318-assignment1-11116210\TriangleTypeIdentifier\bin\Debug\net10.0\TriangleTypeIdentifier.deps.json
+C:\Users\Hikma_kd50hxb\Downloads\dcit318-assignment1-11116210\TriangleTypeIdentifier\bin\Debug\net10.0\TriangleTypeIdentifier.runtimeconfig.json
+C:\Users\Hikma_kd50hxb\Downloads\dcit318-assignment1-11116210\TriangleTypeIdentifier\bin\Debug\net10.0\TriangleTypeIdentifier.dll
+C:\Users\Hikma_kd50hxb\Downloads\dcit318-assignment1-11116210\TriangleTypeIdentifier\bin\Debug\net10.0\TriangleTypeIdentifier.pdb
+C:\Users\Hikma_kd50hxb\Downloads\dcit318-assignment1-11116210\TriangleTypeIdentifier\obj\Debug\net10.0\TriangleTypeIdentifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hikma_kd50hxb\Downloads\dcit318-assignment1-11116210\TriangleTypeIdentifier\obj\Debug\net10.0\TriangleTypeIdentifier.AssemblyInfoInputs.cache
+C:\Users\Hikma_kd50hxb\Downloads\dcit318-assignment1-11116210\TriangleTypeIdentifier\obj\Debug\net10.0\TriangleTypeIdentifier.AssemblyInfo.cs
+C:\Users\Hikma_kd50hxb\Downloads\dcit318-assignment1-11116210\TriangleTypeIdentifier\obj\Debug\net10.0\TriangleTypeIdentifier.csproj.CoreCompileInputs.cache
+C:\Users\Hikma_kd50hxb\Downloads\dcit318-assignment1-11116210\TriangleTypeIdentifier\obj\Debug\net10.0\TriangleTypeIdentifier.dll
+C:\Users\Hikma_kd50hxb\Downloads\dcit318-assignment1-11116210\TriangleTypeIdentifier\obj\Debug\net10.0\refint\TriangleTypeIdentifier.dll
+C:\Users\Hikma_kd50hxb\Downloads\dcit318-assignment1-11116210\TriangleTypeIdentifier\obj\Debug\net10.0\TriangleTypeIdentifier.pdb
+C:\Users\Hikma_kd50hxb\Downloads\dcit318-assignment1-11116210\TriangleTypeIdentifier\obj\Debug\net10.0\TriangleTypeIdentifier.genruntimeconfig.cache
+C:\Users\Hikma_kd50hxb\Downloads\dcit318-assignment1-11116210\TriangleTypeIdentifier\obj\Debug\net10.0\ref\TriangleTypeIdentifier.dll
