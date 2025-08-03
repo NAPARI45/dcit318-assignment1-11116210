@@ -1,0 +1,14 @@
+C:\Users\Hikma_kd50hxb\Downloads\dcit318-assignment1-11116210\TicketPriceCalculator\bin\Debug\net10.0\TicketPriceCalculator.exe
+C:\Users\Hikma_kd50hxb\Downloads\dcit318-assignment1-11116210\TicketPriceCalculator\bin\Debug\net10.0\TicketPriceCalculator.deps.json
+C:\Users\Hikma_kd50hxb\Downloads\dcit318-assignment1-11116210\TicketPriceCalculator\bin\Debug\net10.0\TicketPriceCalculator.runtimeconfig.json
+C:\Users\Hikma_kd50hxb\Downloads\dcit318-assignment1-11116210\TicketPriceCalculator\bin\Debug\net10.0\TicketPriceCalculator.dll
+C:\Users\Hikma_kd50hxb\Downloads\dcit318-assignment1-11116210\TicketPriceCalculator\bin\Debug\net10.0\TicketPriceCalculator.pdb
+C:\Users\Hikma_kd50hxb\Downloads\dcit318-assignment1-11116210\TicketPriceCalculator\obj\Debug\net10.0\TicketPriceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hikma_kd50hxb\Downloads\dcit318-assignment1-11116210\TicketPriceCalculator\obj\Debug\net10.0\TicketPriceCalculator.AssemblyInfoInputs.cache
+C:\Users\Hikma_kd50hxb\Downloads\dcit318-assignment1-11116210\TicketPriceCalculator\obj\Debug\net10.0\TicketPriceCalculator.AssemblyInfo.cs
+C:\Users\Hikma_kd50hxb\Downloads\dcit318-assignment1-11116210\TicketPriceCalculator\obj\Debug\net10.0\TicketPriceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Hikma_kd50hxb\Downloads\dcit318-assignment1-11116210\TicketPriceCalculator\obj\Debug\net10.0\TicketPriceCalculator.dll
+C:\Users\Hikma_kd50hxb\Downloads\dcit318-assignment1-11116210\TicketPriceCalculator\obj\Debug\net10.0\refint\TicketPriceCalculator.dll
+C:\Users\Hikma_kd50hxb\Downloads\dcit318-assignment1-11116210\TicketPriceCalculator\obj\Debug\net10.0\TicketPriceCalculator.pdb
+C:\Users\Hikma_kd50hxb\Downloads\dcit318-assignment1-11116210\TicketPriceCalculator\obj\Debug\net10.0\TicketPriceCalculator.genruntimeconfig.cache
+C:\Users\Hikma_kd50hxb\Downloads\dcit318-assignment1-11116210\TicketPriceCalculator\obj\Debug\net10.0\ref\TicketPriceCalculator.dll
